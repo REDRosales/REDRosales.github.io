@@ -1,0 +1,70 @@
+body {
+    background-color: #C0C0C0;
+     margin: 0;
+     padding: 0;
+}
+
+li{
+    float:left;
+    width:255px;
+    list-style-type:none;
+}
+
+.navsammich {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.foto {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.wrngbttn {    
+    position: absolute;
+    top: 40%;
+    left: 0%;
+    margin-left: 5%;
+
+}
+
+.ritebttn {    
+    position: absolute;
+    top: 40%;
+    right: 0%;
+    margin-right: 5%;
+    
+}
+
+.hoom {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.ndrfoto {
+    font-family: impact;
+    position: absolute;
+    top: 75%;
+    left: 62%;
+    margin-right: -0%;
+    transform: translate(-50%, -50%);
+
+}
+
+.footsie {
+    font-family: impact;
+    position: absolute;
+    top: 97%;
+    left: 92.4%;
+    margin-right: 0%;
+}
+   
